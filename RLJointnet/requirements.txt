@@ -1,0 +1,14 @@
+numpy~=1.26.4
+msgpack-numpy
+lmdb
+h5py
+
+hydra-core==0.11.3
+pytorch-lightning==0.7.1
+
+
+
+torch~=2.1.2+cu118
+tqdm~=4.64.1
+matplotlib~=3.9.0
+pillow~=10.3.0
